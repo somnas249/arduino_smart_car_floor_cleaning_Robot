@@ -45,9 +45,3 @@ A compact Arduino‑powered floor‑cleaning robot chassis with Bluetooth manual
 
 ---
 
-## ⚙️ Setup & Usage
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/somnas249/arduino_smart_car_floor_cleaning_Robot.git
-   cd arduino_smart_car_floor_cleaning_Robot
